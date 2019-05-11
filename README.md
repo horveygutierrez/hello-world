@@ -1,8 +1,3 @@
-# hello-world
-this is a hello world project from github learning lab.
+# first update to hello-world repository
+Hello friends i love programming and opened my github account to share with you my learning progress
 
-# message from me to github people
-Hello friends i like react and nodejs i would like learn a lot from you my friends
-
-# using console into javascript
-console.log('this is a string to show into console using javascript');
